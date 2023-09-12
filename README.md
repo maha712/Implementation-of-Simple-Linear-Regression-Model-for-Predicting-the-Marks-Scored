@@ -22,7 +22,7 @@ Program to implement the simple linear regression model for predicting the marks
 Developed by:K.Mahalakshmi
 RegisterNumber: 212222240057 
 */
-```import pandas as pd
+import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.metrics import mean_absolute_error,mean_squared_error
@@ -64,10 +64,10 @@ plt.title('Test set(H vs S)')
 plt.xlabel("Hours")
 plt.ylabel("Scores")
 plt.show()
+```
+## Output
 
-## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
-
+image
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
