@@ -66,8 +66,24 @@ plt.ylabel("Scores")
 plt.show()
 ```
 ## Output
+Dataset
+![dataset](https://github.com/maha712/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121156360/e1e40ef4-6010-499c-b8a7-a5bd3f4be07a)
+Head values
+![head values](https://github.com/maha712/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121156360/b79038ce-3175-418e-95be-7a105f5f6434)
+Tail values
+![Tail values](https://github.com/maha712/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121156360/e77a39c7-6049-4a8b-a20a-df7564c41131)
+X and Y values
+![Tail values](https://github.com/maha712/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121156360/50516ba7-afe4-4055-b080-0b3cc3b3aca6)
 
-image
+Predication values of X and Y
+![prediction of x and y values](https://github.com/maha712/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121156360/160cbb96-395d-42e0-92b6-c868372ceebf)
+MSE,MAE and RMSE
+![MSE,MAE and RMSE](https://github.com/maha712/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121156360/331ff6cd-529e-495e-9056-4565e96f98ab)
+Training Set
+![ml ex 2](https://github.com/maha712/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121156360/e664353c-de9f-489a-923c-3b7199293ffb)
+
+![ml exp 2](https://github.com/maha712/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121156360/89b40d7c-950b-45e2-9370-fde13db4ac0d)
+
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
